@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ferrumx.formatter.cim"},{"l":"com.ferrumx.system.currentuser"},{"l":"com.ferrumx.system.hardware"},{"l":"com.ferrumx.system.logger"},{"l":"com.ferrumx.system.networking"},{"l":"com.ferrumx.system.operating_system"}];updateSearchResults();
