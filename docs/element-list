@@ -2,6 +2,5 @@ com.ferrumx.exceptions
 com.ferrumx.formatter.cim
 com.ferrumx.system.currentuser
 com.ferrumx.system.hardware
-com.ferrumx.system.logger
 com.ferrumx.system.networking
 com.ferrumx.system.operating_system
